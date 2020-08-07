@@ -10,4 +10,3 @@
 - CSS3
 - Javascript
 - JQuery
-- Bootstrap4
